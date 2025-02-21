@@ -1,0 +1,12 @@
+Circuit Diagram
+Connect the TRIG pin of the ultrasonic sensor to pin 12 of the Arduino.
+Connect the ECHO pin of the ultrasonic sensor to pin 11 of the Arduino.
+Connect the VCC and GND pins of the ultrasonic sensor to 5V and GND of the Arduino.
+Connect the servo motor control wire to pin 3 of the Arduino.
+Connect the motor driver module to the Arduino:
+IN1 to pin 6
+IN2 to pin 5
+IN3 to pin 10
+IN4 to pin 9
+Connect the motors to the motor driver module.
+Connect the motor driver VCC and GND to the battery pack and Arduino 5V and GND.
